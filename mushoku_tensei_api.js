@@ -1,122 +1,122 @@
 [
  {
-  "id": 1,
-  "nombre": "Rudeus Greyrat",
-  "edad": 34,
-  "raza": "Humano",
-  "estilo": "Magia",
-  "imagen": "https://static.wikia.nocookie.net/mushokutensei/images/e/ec/MT-AN-S2-Rudeus-Uniform-FullBody.png/revision/latest?cb=20230804000750"
+  "id":"Rudeus",
+  "nombre":"Rudeus Greyrat",
+  "edad":"23",
+  "raza":"Humano",
+  "estilo":"Magia",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/e/ec/MT-AN-S2-Rudeus-Uniform-FullBody.png/revision/latest?cb=20230804000750"
  },
  {
-  "id": 2,
-  "nombre": "Roxy Migurdia",
-  "edad": 27,
-  "raza": "Elfo",
-  "estilo": "Magia",
-  "imagen": "https://static.wikia.nocookie.net/mushokutensei/images/e/e5/RoxyAnime.png/revision/latest?cb=20200709063823"
+  "id":"Roxy",
+  "nombre":"Roxy Migurdia",
+  "edad":"63",
+  "raza":"Elfo",
+  "estilo":"Magia",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/e/e5/RoxyAnime.png/revision/latest?cb=20200709063823"
  },
  {
-  "id": 3,
-  "nombre": "Sylphiette",
-  "edad": 18,
-  "raza": "Bestia mágica",
-  "estilo": "Magia",
-  "imagen": "https://static.wikia.nocookie.net/mushokutensei/images/5/5d/MT-AN-S2-Fitts-FullBody.png/revision/latest?cb=20230804000822"
+  "id":"Sylphiette",
+  "nombre":"Sylphiette",
+  "edad":"23",
+  "raza":"Bestia mágica",
+  "estilo":"Magia",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/5/5d/MT-AN-S2-Fitts-FullBody.png/revision/latest?cb=20230804000822"
  },
  {
-  "id": 4,
-  "nombre": "Ghislaine Dedoldia",
-  "edad": 27,
-  "raza": "Bestia mágica",
-  "estilo": "Espada",
-  "imagen": "url_imagen_ghislaine"
+  "id":"Ghislaine",
+  "nombre":"Ghislaine Dedoldia",
+  "edad":"27",
+  "raza":"Bestia mágica",
+  "estilo":"Espada",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/f/f6/Ghislaine_Dedoldia_anime.png/revision/latest?cb=20210127141859"
  },
  {
-  "id": 5,
-  "nombre": "Paul Greyrat",
-  "edad": 45,
-  "raza": "Humano",
-  "estilo": "Espada",
-  "imagen": "url_imagen_paul"
+  "id":"Paul",
+  "nombre":"Paul Greyrat",
+  "edad":"45",
+  "raza":"Humano",
+  "estilo":"Espada",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/d/dc/PaulAnime.png/revision/latest?cb=20200713085511"
  },
  {
-  "id": 6,
-  "nombre": "Zenith Greyrat",
-  "edad": 38,
-  "raza": "Humano",
-  "estilo": "Magia",
-  "imagen": "url_imagen_zenith"
+  "id":"Zenith",
+  "nombre":"Zenith Greyrat",
+  "edad":"38",
+  "raza":"Humano",
+  "estilo":"Magia",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/1/18/ZenithAnime.png/revision/latest?cb=20200714122202"
  },
  {
-  "id": 7,
-  "nombre": "Lilia Dedoldia",
-  "edad": 25,
-  "raza": "Humano",
-  "estilo": "Magia",
-  "imagen": "url_imagen_lilia"
+  "id":"Lilia",
+  "nombre":"Lilia Dedoldia",
+  "edad":"33",
+  "raza":"Humano",
+  "estilo":"Magia",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/3/3d/LiliaAnime.png/revision/latest?cb=20200715080122"
  },
  {
-  "id": 8,
-  "nombre": "Norn Greyrat",
-  "edad": 15,
-  "raza": "Humano",
-  "estilo": "Magia",
-  "imagen": "url_imagen_norn"
+  "id":"Norn",
+  "nombre":"Norn Greyrat",
+  "edad":"8",
+  "raza":"Humano",
+  "estilo":"Magia",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/2/24/NornAnime.png/revision/latest?cb=20230101113746"
  },
  {
-  "id": 9,
-  "nombre": "Aisha Greyrat",
-  "edad": 28,
-  "raza": "Humano",
-  "estilo": "Espada",
-  "imagen": "url_imagen_aisha"
+  "id":"Aisha",
+  "nombre":"Aisha Greyrat",
+  "edad":"8",
+  "raza":"Humano",
+  "estilo":"Espada",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/4/49/AishaAnime2.png/revision/latest?cb=20230516171112"
  },
  {
-  "id": 10,
-  "nombre": "Orsted",
-  "edad": "Desconocida",
-  "raza": "Desconocida",
-  "estilo": "Desconocido",
-  "imagen": "url_imagen_orsted"
+  "id":"Orsted",
+  "nombre":"Orsted",
+  "edad":"Desconocida",
+  "raza":"Desconocida",
+  "estilo":"Desconocido",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/e/ec/Orsted_Anime.png/revision/latest?cb=20210302154609"
  },
  {
-  "id": 11,
-  "nombre": "Hitogami",
-  "edad": "Desconocida",
-  "raza": "Desconocida",
-  "estilo": "Desconocido",
-  "imagen": "url_imagen_hitogami"
+  "id":"Hitogami",
+  "nombre":"Hitogami",
+  "edad":"Desconocida",
+  "raza":"Desconocida",
+  "estilo":"Desconocido",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/3/30/Hitogami_Anime.png/revision/latest?cb=20210311231458"
  },
  {
-  "id": 12,
-  "nombre": "Dead End",
-  "edad": "Desconocida",
-  "raza": "Desconocida",
-  "estilo": "Desconocido",
-  "imagen": "url_imagen_dead_end"
+  "id":"Elinalise",
+  "nombre":"Elinalise Dragonroad",
+  "edad":"200",
+  "raza":"Elfo",
+  "estilo":"Espada",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/d/db/MT-AN-S2-Elinalise-FullBody.png/revision/latest?cb=20230810045935"
  },
  {
-  "id": 13,
-  "nombre": "Ruijerd Superdia",
-  "edad": "Desconocida",
-  "raza": "Super humano",
-  "estilo": "Espada",
-  "imagen": "url_imagen_ruijerd"
+  "id":"Ruijerd",
+  "nombre":"Ruijerd Superdia",
+  "edad":"Desconocida",
+  "raza":"Super humano",
+  "estilo":"Espada",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/1/1a/Ruijerd_Anime.png/revision/latest?cb=20201010073003"
  },
  {
-  "id": 14,
-  "nombre": "Tina",
-  "edad": 24,
-  "raza": "Humano",
-  "estilo": "Magia",
-  "imagen": "url_imagen_tina"
+  "id":"Nanahoshi",
+  "nombre":"Nanahoshi Shizuka",
+  "edad":"17",
+  "raza":"Humano",
+  "estilo":"Magia",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/1/10/MT-AN-S2-Nanahoshi-Uniform-FullBody.png/revision/latest?cb=20230904013425"
  },
  {
-  "id": 15,
-  "nombre": "Eris Boreas Greyrat",
-  "edad": 32,
-  "raza": "Humano",
-  "estilo": "Espada",
-  "imagen": "url_imagen_eris"
+  "id":"Eris",
+  "nombre":"Eris Boreas Greyrat",
+  "edad":"32",
+  "raza":"Humano",
+  "estilo":"Espada",
+  "imagen":"https://static.wikia.nocookie.net/mushokutensei/images/7/75/ErisAnime1.png/revision/latest?cb=20230516191642"
  }
 ]
